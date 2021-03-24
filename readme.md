@@ -38,7 +38,7 @@ In all cases, these are suggestions only. If any of this is overwhelming or unin
   ![I actually quite like the idea of interviewing a potato about how they use redis in production](https://cdn.pocket-lint.com/r/s/1200x/assets/images/151723-apps-feature-how-to-turn-yourself-into-a-potato-image1-zynfs0gia3.jpg "I actually quite like the idea of interviewing a potato about how they use redis in production")
   [image source: How to turn yourself into a potato or a cat (and other things) for Zoom meetings, Teams calls and more](https://www.pocket-lint.com/apps/news/151723-how-to-turn-yourself-into-a-potato-and-other-filters-for-zoom-meetings-and-team-calls)   
 
-**On getting the questions ahead of time:**
+### On getting the questions ahead of time:
 
 The guides I've read on how to be a good interviewer say that I should not provide questions ahead of time. I *have* written around 30 potential questions that I hope are open ended enough that they will elicit interesting responses.
 
