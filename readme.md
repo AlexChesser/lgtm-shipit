@@ -48,6 +48,8 @@ I actually think there's other variables in play, but, if I post a list of quest
 
 If you are willing to "trust the process" as recommended by experts, we'll go with blind questions. In all cases, this interview is about you and if knowing what you're going to be asked ahead of time helps you feel more comfortable, I will by all means send you a link to the google sheet where they're all written down.
 
+> **In all cases, this interview is about you**
+
 The nice part about whichever way you decide to go, will be that we will be able to get a more robust idea of whether knowing the questions that will be on the test produces better results.
 
 Of course, there is always the chance of spontaneous questions based on what you say. This isn't about reading through a script, it is about having a conversation and hearing your story.
