@@ -42,7 +42,7 @@ In all cases, these are suggestions only. If any of this is overwhelming or unin
 
 The guides I've read on how to be a good interviewer say that I should not provide questions ahead of time. I *have* written around 30 potential questions that I hope are open ended enough that they will elicit interesting responses.
 
-I feel that it would probably be some pretty serious hubris and arrogance if I ignored the advice of experienced experts before I've conducted a single intervew, but the technologist in me wants to A/B test  the theory. Does it really make for a better interview if you don't know what's coming? 
+I feel that it would probably be some pretty serious hubris and arrogance if I ignored the advice of experts before I've conducted a single intervew, but the technologist in me wants to A/B test  the theory. Does it really make for a better interview if you don't know what's coming? 
 
 I actually think there's other variables in play, but, if I post a list of questions in this repo, then I can't really put the genie back into the bottle.
 
