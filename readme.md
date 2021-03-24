@@ -11,9 +11,9 @@ A podcast about programming.
 
 ## Social / Contact
 
-**linkedin**: https://www.linkedin.com/in/alex-chesser/
-**twitter**: https://twitter.com/AlexC04
-**email**: `alexchesser at gmail dot com` 
+**linkedin**: https://www.linkedin.com/in/alex-chesser/  
+**twitter**: https://twitter.com/AlexC04  
+**email**: `alexchesser at gmail dot com`   
 
 ## Interview Preparation
 
