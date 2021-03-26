@@ -35,7 +35,10 @@ In all cases, these are suggestions only. If any of this is overwhelming or unin
   * is there a noticable difference in brightness between the background and the rest of you?
   * do parts of the background materialize and disappear as you move your head? Do your hands or face disappear when you move them?
   * If the zoom background isn't working well *consider* turning it off, going audio only, or going "ALL IN" and setting up a [snap cam](https://snapcamera.snapchat.com/).
-  * UPDATE: the new zoom BLUR background is actually really great and does a very good job of solving for almost all the most egregious issues with respect to background pop in, sharp cuts around your hair, differnetial lighting between background and you. If you'd like to use a zoom background this absoloutely looks the best in terms of overall image quality.  
+  * UPDATE: the new zoom BLUR background is actually really great and does a very good job of solving for almost all the most egregious issues with respect to background pop in, sharp cuts around your hair, differnetial lighting between background and you. If you'd like to use a zoom background this absoloutely looks the best in terms of overall image quality.
+    * this feature requires zoom 5.5.0 or greater
+    * to update zoom, click your profile picture while not in a meeting and select "Check for Updates"
+
   
   ![I actually quite like the idea of interviewing a potato about how they use redis in production](https://cdn.pocket-lint.com/r/s/1200x/assets/images/151723-apps-feature-how-to-turn-yourself-into-a-potato-image1-zynfs0gia3.jpg "I actually quite like the idea of interviewing a potato about how they use redis in production")
   [image source: How to turn yourself into a potato or a cat (and other things) for Zoom meetings, Teams calls and more](https://www.pocket-lint.com/apps/news/151723-how-to-turn-yourself-into-a-potato-and-other-filters-for-zoom-meetings-and-team-calls)   
