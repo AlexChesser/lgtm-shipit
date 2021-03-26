@@ -4,15 +4,15 @@ A podcast about programming.
 
 ## Hosting 
 
-**podcast central distribution**: https://anchor.fm/lgtm-shipit
-**Podcast RSS**: https://anchor.fm/s/523f7c4c/podcast/rss
-**youtube (video version + livestreams)**: https://www.youtube.com/channel/UC84NrXG8k4vwZanuLilgvxQ
-**twitch (livestreams only)**: https://www.twitch.tv/alexchesser
+**podcast central distribution**: <https://anchor.fm/lgtm-shipit>
+**Podcast RSS**: <https://anchor.fm/s/523f7c4c/podcast/rss>
+**youtube (video version + livestreams)**: <https://www.youtube.com/channel/UC84NrXG8k4vwZanuLilgvxQ>
+**twitch (livestreams only)**: <https://www.twitch.tv/alexchesser>
 
 ## Social / Contact
 
-**linkedin**: https://www.linkedin.com/in/alex-chesser/  
-**twitter**: https://twitter.com/AlexC04  
+**linkedin**: <https://www.linkedin.com/in/alex-chesser/>
+**twitter**: <https://twitter.com/AlexC04>
 **email**: `alexchesser at gmail dot com`   
 
 ## Interview Preparation
@@ -21,7 +21,8 @@ This podcast is a work-in-progress early interviews are going to be the place wh
 
 In all cases, these are suggestions only. If any of this is overwhelming or uninteresting to you, you can go audio only. Podcasting is an audio medium and the youtube bit is an add-on. 
 
-**Remote interviews**
+### Remote interviews
+
 * Zoom meetings allows unlimited 1:1 on the free tier and it is by far one of the best technologies on the market for video conferencing. If you have the desktop version of zoom installed, great, otherwise as long as you have a browser you should be able to get in for the chat.
 * Consider your comfort in the setting. Do you think you'll be able to last for an hour or two? Will you be able to relax and really think about things? Will there be any [interruptions](https://www.youtube.com/watch?v=Mh4f9AYRCZY)?
 * Consider the background audio of your setting, is there construction? Barking dogs? Delighted and happy children sqealing with joy?
@@ -34,6 +35,7 @@ In all cases, these are suggestions only. If any of this is overwhelming or unin
   * is there a noticable difference in brightness between the background and the rest of you?
   * do parts of the background materialize and disappear as you move your head? Do your hands or face disappear when you move them?
   * If the zoom background isn't working well *consider* turning it off, going audio only, or going "ALL IN" and setting up a [snap cam](https://snapcamera.snapchat.com/).
+  * UPDATE: the new zoom BLUR background is actually really great and does a very good job of solving for almost all the most egregious issues with respect to background pop in, sharp cuts around your hair, differnetial lighting between background and you. If you'd like to use a zoom background this absoloutely looks the best in terms of overall image quality.  
   
   ![I actually quite like the idea of interviewing a potato about how they use redis in production](https://cdn.pocket-lint.com/r/s/1200x/assets/images/151723-apps-feature-how-to-turn-yourself-into-a-potato-image1-zynfs0gia3.jpg "I actually quite like the idea of interviewing a potato about how they use redis in production")
   [image source: How to turn yourself into a potato or a cat (and other things) for Zoom meetings, Teams calls and more](https://www.pocket-lint.com/apps/news/151723-how-to-turn-yourself-into-a-potato-and-other-filters-for-zoom-meetings-and-team-calls)   
@@ -72,4 +74,3 @@ Some options to consider:
 
 * endorsement / paid promotion: 15 or 30 second mention embedded within the podcast "this podcast is brought to you by `<your name/business here>`  
 * listing in the repo readme: a bulleted list within the `special thanks` section of this readme (reach out and contact me if you would like to be the first to make me create that special thanks section).  
-
