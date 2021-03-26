@@ -2,6 +2,10 @@
 
 A podcast about programming.
 
+# Good things happen for communities
+
+// TODO: explicitly state the good things this podcast might be able to do for others.
+
 ## Hosting 
 
 **podcast central distribution**: <https://anchor.fm/lgtm-shipit>  
