@@ -2,7 +2,7 @@
 
 A podcast about programming.
 
-# Good things happen for communities
+## Good things happen for communities
 
 // TODO: explicitly state the good things this podcast might be able to do for others.
 
@@ -22,6 +22,22 @@ A podcast about programming.
 ## Interview Preparation
 
 [Read the article](Articles/interview-prep.md)
+
+## Episodes
+
+### [Episode 0 - Shipit](Episodes/Episode0.md)
+
+I did not initially intend to share this video. It was initially a workflow and camera test to make sure I had the production process working. Lighting, framing, audio, set dressing, script, delivery, there are a *LOT* of variables in producing a single video.
+
+I spent hours and came up with something that despite my efforts managed to put the "M" in MVP! I was planning on showing it to a few of my early interviewees to gater feedback, but the next day I came across [this comment on hackernews](https://news.ycombinator.com/item?id=26533837) which resonated with what I'd been feeling and had *just last night* had posted a video on.
+
+Within a few hours I gained about a hundred subscribers in youtube, a few dozen comments saying things like "good work" and "I'm looking forward to your next episode". Friends and strangers were giving me great advice and action items to improve the quality for the next one.
+
+One user had the generosity to comment on some of the issues I've opened for keeping track of all the things that need to be done.
+
+It's been so energising, empowering and, validating that there might just be a viable product here. It redoubled my resolve to push forward "at least one more episode" and fills me with a very heady mix of pride and obligation.
+
+Friends and strangers took the time to speak up and say kind things. I am so greatful to them. I cannot wait to prove worthy of that participation.
 
 ## Interview Nominations
 

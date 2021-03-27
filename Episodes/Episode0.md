@@ -40,13 +40,34 @@ If my friends are going to *give me* that value, I would love to find ways to pr
 
 Again, I've got to do a really good job to pay for the value of the gift of time that my friends are giving me. This first episode was created as a camera test. Quality is critical in providing value.
 
-
-// TODO
-WIP - time to take the kid to daycare.
-- notes d not forget to expand rant referencing Marx "programmers **ARE** the means of production.
-
-
-
-
-
 ## Episode script
+
+In the coming weeks I’m going to be interviewing professional programmers about their experiences in the industry, thoughts on technology, and how they became the leaders that they are.
+
+I hope that together we can all grow and improve in our craft. I would like to spark productive and respectful discussion about how we solve big problems.
+
+I’m going to be talking with the people whose work I admire. I’ll be asking them about the spark that drives them and how they look at problems. I’d like to hear stories about the craziest bugs they’ve met, the biggest wins or, just the stories of the projects they’ve worked on, applications they’ve built and their impact on the world around them.
+
+How do you lead teams in the development of software? How do you mentor, encourage and grow developers in the early stages of their careers? How do you protect your projects against the inevitable small mistakes they make or the huge ones you do?
+
+How do you decide which technologies to choose for a given job? Why are there so many Javascript frameworks?
+
+[pause for laughter … it’s a podcast, nobody’s laughing. Note: do not read the stage direction]
+
+It’s a definitional property of professionalism that we engage in continuous and deliberate self reflection on our performance. That we continually strive to improve our practice. That we never stop learning and growing in our role.
+
+I hope that in having and sharing these discussions, we can all learn from each other and grow as individuals and as community.
+
+While the discussions will be allowed to go where they lead, I do hope that as an interviewer I’m able to guide these conversations towards developing valuable insights into the business and craft of professional software development.
+
+I also hope to raise the profiles of not just programmers in general, but programming as a craft and vocation. I want to find some way to convey the true majesty and power of software and celebrate the people who create it.
+
+Think about this for a second. Bill Gates, Larry Page, Sergey Brin, Larry Ellison, all programmers. Where would Elon Musk or Jack Ma be without programmers? Look at the biggest companies in the world right now, where would they be without programmers?
+
+What sector doesn’t rely on software? What business isn’t aware that a software might come along and revolutionize their industry?
+
+If software is the engine that our economy runs on, I’d like to talk to the people behind it.
+
+Over the coming weeks I’ll be pre-recording and editing a number of interviews. When I have enough content recorded, I’m hoping to be able to maintain a weekly delivery schedule. As this is my first podcast, I would love your feedback. Please feel free to leave a comment or get in touch.
+
+I would be deeply honored if you’d join me for these stories, if they sound like they’d be of interest to you, I’d appreciate it if you’d subscribe wherever you get your podcasts. Leave a comment to let me know what you think and maybe share it with a friend.
