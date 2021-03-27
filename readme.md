@@ -4,16 +4,16 @@ A podcast about programming.
 
 ## Hosting 
 
-**podcast central distribution**: <https://anchor.fm/lgtm-shipit>
-**Podcast RSS**: <https://anchor.fm/s/523f7c4c/podcast/rss>
-**youtube (video version + livestreams)**: <https://www.youtube.com/channel/UC84NrXG8k4vwZanuLilgvxQ>
-**twitch (livestreams only)**: <https://www.twitch.tv/alexchesser>
+**podcast central distribution**: <https://anchor.fm/lgtm-shipit>  
+**Podcast RSS**: <https://anchor.fm/s/523f7c4c/podcast/rss>  
+**youtube (video version + livestreams)**: <https://www.youtube.com/channel/UC84NrXG8k4vwZanuLilgvxQ>  
+**twitch (livestreams only)**: <https://www.twitch.tv/alexchesser>  
 
 ## Social / Contact
 
-**linkedin**: <https://www.linkedin.com/in/alex-chesser/>
-**twitter**: <https://twitter.com/AlexC04>
-**email**: `alexchesser at gmail dot com`   
+**linkedin**: <https://www.linkedin.com/in/alex-chesser/>  
+**twitter**: <https://twitter.com/AlexC04>  
+**email**: `alexchesser at gmail dot com`  
 
 ## Interview Preparation
 
