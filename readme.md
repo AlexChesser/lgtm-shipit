@@ -39,6 +39,20 @@ It's been so energising, empowering and, validating that there might just be a v
 
 Friends and strangers took the time to speak up and say kind things. I am so greatful to them. I cannot wait to prove worthy of that participation.
 
+# Episode 1: The Plan
+
+One of the things I'm learning right off the get go is that finding time to conduct an interview is challenging when you have a full time job and a two year old son. Between the two of them, that's the hours from 7am to 7pm fully allocated. Add chores to that (laundry, groceries, household administration) suddenly the hours available to progress on the project on run from about 8pm to midnight and the time between 5am and whenever the boy wakes up. 
+
+Far easier and far more achievable is to accomplish hobby-goals in the minutes between all the other things that have to happen first. How do you ensure that you remain present for the people that need you when you're consumed by the need to create? After I put my son down for his nap today, I knew I had a random amount of time between 45 minutes and 2 hours. I went to the basement studio to hopefully move the line forward just a little bit. As much as I can achieve in the time I have. Just one goal.
+
+It makes me want to take a moment to consider the ways to scale the content production pipeline in a way that is realistic within the time I have available. The answer I'm going to experiment with is trimming out the script writing process and editing at least, sort of, I'm actually going to try a workflow where I deliver a semi improvised piece, direct to camera on a live stream. "We'll do it live" 
+
+I'm going to write the bullet points and maybe make a PowerPoint, but instead of spending the hours meticulously crafting every word I say, spending the hours on take just one more take, spending the hours in windows movie maker dilligently muting or cutting the "ummmmmm", rather than spending the hours not putting it out there ... I'm going to do it live. Just put it out there. I'm going to ship it.
+
+There were so many wonderful and valuable comments from the HN thread, do more of this, do less of that. They're all correct. At the same time, I don't have to evaluate myself against iJustine, Jenna Marbles, or, Linus Tech Tips after the end of my first episode. Ship it, gather feedback, improve, iterate. The best part? By writing, producing and shipping the script in real time (maybe under a separate label like "lgtm: shipit raw" (shipit sushi? Whatever, it can be workshopped) anything that is worth re-recording with higher production value for those that really do prefer the higher quality stuff.
+
+I've had "the business plan" bouncing around in a vaguely unordered list in my head. The next episode will tell the story of how this could go from nothing, through a $250k lifestyle business all the way up to a trillion dollar software project. I think it will be fun, clever, thought provoking. It is entirely crazy and I assure you, not entirely serious. The intention will be to make you think exponentially to think "what happens if?" ... To spark a conversation and maybe trade out the thoughts that are worth following up on.
+
 ## Interview Nominations
 
 As the podcast progresses, I will inevitably run out of my own personal network of developers to interview. I'm hoping to start gathering community input right away. If you know a developer who you think would make a great interview candidate **OR** if you are a community member who thinks you would be willing to tell me about yourself, please open a new issue with the label "interview-proposal".
