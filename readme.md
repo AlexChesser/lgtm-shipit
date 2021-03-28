@@ -44,6 +44,10 @@ Friends and strangers took the time to speak up and say kind things. I am so gre
 
 ### Episode 1: The Plan
 
+As a sign that I'm taking on (dad's) feedback about adding some depth to the background, here's a photo of the set-design of the next episode, I had to run out and buy the dry erase markers so I could write on the winter-insulation-plastic that is covering my office windows. I really hope that people find this as funny, entertaining and thought provoking as I do.
+
+![the plan](img/episode-1-the-plan.jpg)
+
 One of the things I'm learning right off the get go is that finding time to conduct an interview is challenging when you have a full time job and a two year old son. Between the two of them, that's the hours from 7am to 7pm fully allocated. Add chores to that (laundry, groceries, household administration) suddenly the hours available to progress on the project on run from about 8pm to midnight and the time between 5am and whenever the boy wakes up.
 
 Far easier and far more achievable is to accomplish hobby-goals in the minutes between all the other things that have to happen first. How do you ensure that you remain present for the people that need you when you're consumed by the need to create? After I put my son down for his nap today, I knew I had a random amount of time between 45 minutes and 2 hours. I went to the basement studio to hopefully move the line forward just a little bit. As much as I can achieve in the time I have. Just one goal.
@@ -55,10 +59,6 @@ I'm going to write the bullet points and maybe make a PowerPoint, but instead of
 There were so many wonderful and valuable comments from the HN thread, do more of this, do less of that. They're all correct. At the same time, I don't have to evaluate myself against iJustine, Jenna Marbles, or, Linus Tech Tips after the end of my first episode. Ship it, gather feedback, improve, iterate. The best part? By writing, producing and shipping the script in real time (maybe under a separate label like "lgtm: shipit raw" (shipit sushi? Whatever, it can be workshopped) anything that is worth re-recording with higher production value can be.
 
 I've had "the business plan" bouncing around in a vaguely unordered list in my head. The next episode will tell the story of how this could go from nothing, through a $250k lifestyle business all the way up to a trillion dollar software project. I think it will be fun, clever, thought provoking. It is entirely crazy and I assure you, not entirely serious. The intention will be to make you think exponentially to think "what happens if?" ... To spark a conversation and maybe trade out the thoughts that are worth following up on.
-
-As a sign that I'm taking on (dad's) feedback about adding some depth to the background, here's a photo of the set-design of the next episode, I had to run out and buy the dry erase markers so I could write on the winter-insulation-plastic that is covering my office windows. I really hope that people find this as funny, entertaining and thought provoking as I do.
-
-![the plan](img/episode-1-the-plan.jpg)
 
 ### Episode (X - in development) - Look at me! I'm medicare for all now
 
