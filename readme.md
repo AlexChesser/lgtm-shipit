@@ -42,7 +42,7 @@ Friends and strangers took the time to speak up and say kind things. I am so gre
 
 ## Upcoming Episodes - things to look forward to
 
-### Episode 1: The Plan
+### Episode 1: The Plan part 1 of 3 "Collect Underpants"
 
 As a sign that I'm taking on (dad's) feedback about adding some depth to the background, here's a photo of the set-design of the next episode, I had to run out and buy the dry erase markers so I could write on the winter-insulation-plastic that is covering my office windows. I really hope that people find this as funny, entertaining and thought provoking as I do.
 
@@ -59,6 +59,30 @@ I'm going to write the bullet points and maybe make a PowerPoint, but instead of
 There were so many wonderful and valuable comments from the HN thread, do more of this, do less of that. They're all correct. At the same time, I don't have to evaluate myself against iJustine, Jenna Marbles, or, Linus Tech Tips after the end of my first episode. Ship it, gather feedback, improve, iterate. The best part? By writing, producing and shipping the script in real time (maybe under a separate label like "lgtm: shipit raw" (shipit sushi? Whatever, it can be workshopped) anything that is worth re-recording with higher production value can be.
 
 I've had "the business plan" bouncing around in a vaguely unordered list in my head. The next episode will tell the story of how this could go from nothing, through a $250k lifestyle business all the way up to a trillion dollar software project. I think it will be fun, clever, thought provoking. It is entirely crazy and I assure you, not entirely serious. The intention will be to make you think exponentially to think "what happens if?" ... To spark a conversation and maybe trade out the thoughts that are worth following up on.
+
+### Episode 2: The Plan part 2 of 3 "Save the streamers"
+
+As it turns out, a three part plan where two of the parts are effectively a comedy act tailored for the hacker news crowd goes WAY too long, cover too many topics and just be too scattered. If I focus the episodes onto ONE subject at a time I can do a higher quality job on each one. Make sure I work through the thoughts at a slower pace.
+
+Also, it's too much work to ship in one go. The audience for a 30 to 45 minute podcast discussing ONE topic is probably way bigger than a 4 hour podcast that discusses three topics that are only tangentally related.
+
+Like they say on hacker news, release, find the problems, pivot. By trimming scope I increase the chances of being able to shipit. If I do manage to record an interview before all three of these are done, we'll re-order the episodes.
+
+The topic of this episode is another business model around a new marketing platform that I think can help professional streamers. Why would these individuals need saving you say? Because they're hurting. If someone is hurting, and we have an idea that might help them, isn't it our responsibsility see if there's anything to it?
+
+How can they be hurting you say? They have perfect lives and make millions. Think about that streamer though who released a video with a title like "I quit" and shut down their business. They talk about the problem of the grind, the pressure to release every day, the overwhelming stress they deal with, the comments and bullying, the snark-forums, the crushing weight of being internet-canceled... that eventually drive them to either consider suicide, have a full on nervous breakdown or quit.
+
+Which streamer am I talking about? Exactly. There are way more examples out there than there should be.
+
+I can't address the bullying, but I have an idea that might help offset the grind. I think it's worth discussing, I can't wait to hear what you think.
+
+### Episode 3: The Plan part 3 of 3 "Solve social media"
+
+Part three of the first series of big ideas. In reality unrelated to the first two, or only tangentally related. This is less "comedy" than it is a bit of an intellectual "what if" exercise trying to re-imagine social media from the ground up.
+
+What would SM look like if we designed it from scratch knowing what we know now? How would we build a social media platform if we wanted to optimize for the public good instead of profit? How would we protect the project from a nacent Marcus Aurelius who would reportedly say "this is not a democracy" when confronted with a staff revolt?
+
+I've had a lot of big ideas in this space. I can't wait to discuss them with you.
 
 ### Episode (X - in development) - Look at me! I'm medicare for all now
 
