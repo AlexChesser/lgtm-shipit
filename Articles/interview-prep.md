@@ -6,7 +6,7 @@ In all cases, these are suggestions only. If any of this is overwhelming or unin
 
 ## An Important Reminder
 
-It is important to remmeber that an interview is a publicly facing conversation. Anything you might say that wouldn't be accessible to a total stranger should be left out.  Anything that directly names or criticises a non-public individual will get cut, but shouldn't be said either way.  If there are valuable insights, take the time to anonymize your stories.
+An interview is a publicly facing conversation. Anything you might say that wouldn't be accessible to a total stranger should be left out.  Anything that directly names or criticises a non-public individual will get cut, but shouldn't be said either way.  If there are valuable insights, take the time to anonymize your stories.
 
 ## Remote interviews
 
