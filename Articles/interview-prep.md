@@ -4,6 +4,10 @@ This podcast is a work-in-progress early interviews are going to be the place wh
 
 In all cases, these are suggestions only. If any of this is overwhelming or uninteresting to you, you can go audio only. Podcasting is an audio medium and the youtube bit is an add-on. 
 
+## An Important Reminder
+
+It is important to remmeber that an interview is a publicly facing conversation. Anything you might say that wouldn't be accessible to a total stranger should be left out.  Anything that directly names or criticises a non-public individual will get cut, but shouldn't be said either way.  If there are valuable insights, take the time to anonymize your stories.
+
 ## Remote interviews
 
 * Zoom meetings allows unlimited 1:1 on the free tier and it is by far one of the best technologies on the market for video conferencing. If you have the desktop version of zoom installed, great, otherwise as long as you have a browser you should be able to get in for the chat.
