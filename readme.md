@@ -40,7 +40,17 @@ It's been so energising, empowering and, validating that there might just be a v
 
 Friends and strangers took the time to speak up and say kind things. I am so greatful to them. I cannot wait to prove worthy of that participation.
 
+### Episode 1 - Ky Patterson - Technical Architect @ Klick Health
+
+Ky Patterson was charitable enough to be my first interview. We discuss issues like the right time and place to use fancy frameworks (like REACT) and when we should go with static sites. We also talk about how to avoid code entropy when working with long-lived projects. It was uploaded in 2 parts and the "cut" at the end of part one is really jarring.  
+
+Sorry, I'll do better on that one in future.  
+
 ## Upcoming Episodes - things to look forward to
+
+### Episode 2 - Arthur Lorena - Full Stack Developer @ Klick Health
+
+The interview with Arthur Lorena has been recorded and IMO went really well! We talk about a bunch of really fun and interesting topics. From his early start in technology in Brasil as the son of a COBOL programmer to his thoughts on what it means to be a 10x engineer. I really enjoyed this chat and can't wait to share it.
 
 ## Interview Nominations
 
