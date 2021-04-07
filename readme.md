@@ -46,6 +46,11 @@ Ky Patterson was charitable enough to be my first interview. We discuss issues l
 
 Sorry, I'll do better on that one in future.  
 
+Here are the links:
+
+* [Ky Patterson - Part 1](https://www.youtube.com/watch?v=kxh4l2J_Ons)
+* [Ky Patterson - Part 2](https://www.youtube.com/watch?v=MiXk79wRKys)
+
 ## Upcoming Episodes - things to look forward to
 
 ### Episode 2 - Arthur Lorena - Full Stack Developer @ Klick Health
