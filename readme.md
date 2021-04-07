@@ -48,7 +48,7 @@ Sorry, I'll do better on that one in future.
 
 Here are the links:
 
-* [Ky Patterson - Part 1](https://www.youtube.com/watch?v=kxh4l2J_Ons)
+* [Ky Patterson - Part 1](https://www.youtube.com/watch?v=kxh4l2J_Ons) (warning, abrupt cut at the end this one)
 * [Ky Patterson - Part 2](https://www.youtube.com/watch?v=MiXk79wRKys)
 
 ## Upcoming Episodes - things to look forward to
