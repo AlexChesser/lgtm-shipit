@@ -42,58 +42,6 @@ Friends and strangers took the time to speak up and say kind things. I am so gre
 
 ## Upcoming Episodes - things to look forward to
 
-### Episode 1: The Plan part 1 of 3 "Collect Underpants"
-
-As a sign that I'm taking on (dad's) feedback about adding some depth to the background, here's a photo of the set-design of the next episode, I had to run out and buy the dry erase markers so I could write on the winter-insulation-plastic that is covering my office windows. I really hope that people find this as funny, entertaining and thought provoking as I do.
-
-![the plan](img/episode-1-the-plan.jpg)
-
-One of the things I'm learning right off the get go is that finding time to conduct an interview is challenging when you have a full time job and a two year old son. Between the two of them, that's the hours from 7am to 7pm fully allocated. Add chores to that (laundry, groceries, household administration) suddenly the hours available to progress on the project on run from about 8pm to midnight and the time between 5am and whenever the boy wakes up.
-
-Far easier and far more achievable is to accomplish hobby-goals in the minutes between all the other things that have to happen first. How do you ensure that you remain present for the people that need you when you're consumed by the need to create? After I put my son down for his nap today, I knew I had a random amount of time between 45 minutes and 2 hours. I went to the basement studio to hopefully move the line forward just a little bit. As much as I can achieve in the time I have. Just one goal.
-
-It makes me want to take a moment to consider the ways to scale the content production pipeline in a way that is realistic within the time I have available. The answer I'm going to experiment with is trimming out the script writing process and editing at least, sort of, I'm actually going to try a workflow where I deliver a semi improvised piece, direct to camera on a live stream. "We'll do it live"
-
-I'm going to write the bullet points and maybe make a PowerPoint, but instead of spending the hours meticulously crafting every word I say, spending the hours on just one more take, spending the hours in windows movie maker dilligently muting or cutting the "ummmmmm", rather than spending the hours not putting it out there ... I'm going to do it live. Just put it out there. I'm going to ship it.
-
-There were so many wonderful and valuable comments from the HN thread, do more of this, do less of that. They're all correct. At the same time, I don't have to evaluate myself against iJustine, Jenna Marbles, or, Linus Tech Tips after the end of my first episode. Ship it, gather feedback, improve, iterate. The best part? By writing, producing and shipping the script in real time (maybe under a separate label like "lgtm: shipit raw" (shipit sushi? Whatever, it can be workshopped) anything that is worth re-recording with higher production value can be.
-
-I've had "the business plan" bouncing around in a vaguely unordered list in my head. The next episode will tell the story of how this could go from nothing, through a $250k lifestyle business all the way up to a trillion dollar software project. I think it will be fun, clever, thought provoking. It is entirely crazy and I assure you, not entirely serious. The intention will be to make you think exponentially to think "what happens if?" ... To spark a conversation and maybe trade out the thoughts that are worth following up on.
-
-### Episode 2: The Plan part 2 of 3 "Save the streamers"
-
-As it turns out, a three part plan where two of the parts are effectively a comedy act tailored for the hacker news crowd goes WAY too long, cover too many topics and just be too scattered. If I focus the episodes onto ONE subject at a time I can do a higher quality job on each one. Make sure I work through the thoughts at a slower pace.
-
-Also, it's too much work to ship in one go. The audience for a 30 to 45 minute podcast discussing ONE topic is probably way bigger than a 4 hour podcast that discusses three topics that are only tangentally related.
-
-Like they say on hacker news, release, find the problems, pivot. By trimming scope I increase the chances of being able to shipit. If I do manage to record an interview before all three of these are done, we'll re-order the episodes.
-
-The topic of this episode is another business model around a new marketing platform that I think can help professional streamers. Why would these individuals need saving you say? Because they're hurting. If someone is hurting, and we have an idea that might help them, isn't it our responsibsility see if there's anything to it?
-
-How can they be hurting you say? They have perfect lives and make millions. Think about that streamer though who released a video with a title like "I quit" and shut down their business. They talk about the problem of the grind, the pressure to release every day, the overwhelming stress they deal with, the comments and bullying, the snark-forums, the crushing weight of being internet-canceled... that eventually drive them to either consider suicide, have a full on nervous breakdown or quit.
-
-Which streamer am I talking about? Exactly. There are way more examples out there than there should be.
-
-I can't address the bullying, but I have an idea that might help offset the grind. I think it's worth discussing, I can't wait to hear what you think.
-
-### Episode 3: The Plan part 3 of 3 "Solve social media"
-
-Part three of the first series of big ideas. In reality unrelated to the first two, or only tangentally related. This is less "comedy" than it is a bit of an intellectual "what if" exercise trying to re-imagine social media from the ground up.
-
-What would SM look like if we designed it from scratch knowing what we know now? How would we build a social media platform if we wanted to optimize for the public good instead of profit? How would we protect the project from a nacent Marcus Aurelius who would reportedly say "this is not a democracy" when confronted with a staff revolt?
-
-I've had a lot of big ideas in this space. I can't wait to discuss them with you.
-
-### Episode (X - in development) - Look at me! I'm medicare for all now
-
-It was 3AM when I woke up in the middle of the night about the "next phase" in digital healthcare delivery. I heard recently about some pretty exciting initiatives that are happening in the healthcare delivery space. Like, things that are going to be so powerful that whoever does achieve "end state" first will very likely become the winner-take-most of the US healthcare market and potentially capture a large portion of the global healthcare delivery market.
-
-I don't know how long this episode will take to build out, becasue I really would like to get an interview in the mix, but I think it's too exciting not to share. The product *if executed correctly* will allow improved delivery of healthcare with a lower overhead and provides opens new revenue streams. With improved margins in healthcare and capturing a greater percentage of total cost of healthcare delivery, you have a strategic advantage to lowering your prices-for-coverage. It's the whole we'll give you gmail for free, because we can make money in other places if you're with us" argument.
-
-If you can reduce the cost of coverage in the US you can get more people their health insurance. You directly save lives. I think it is a really exciting look at where healthcare delivery is going to be, probably in the next 5 years. I'll be pointing to public domain information regarding the disparate parts of the offering that already exist and how the winner in this space will lego-brick them together into a grand-unification-theory of healthcare delivery.
-
-To be very clear here, since I actually work at a digital agency who focuses on the healthcare industry, it is **VERY** important to note that I heard this information 100% outside of my day job and in no way would be violating any privileged client information. I don't want to get fired over fears that I'm flapping my gums on youtube over this cool super secret project I'm working on. Although I don't actually know if the stuff I've heard is public information yet either, so I've also got to double check that bit too.
-
 ## Interview Nominations
 
 As the podcast progresses, I will inevitably run out of my own personal network of developers to interview. I'm hoping to start gathering community input right away. If you know a developer who you think would make a great interview candidate **OR** if you are a community member who thinks you would be willing to tell me about yourself, please open a new issue with the label "interview-proposal".
