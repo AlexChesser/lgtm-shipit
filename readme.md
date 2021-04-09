@@ -11,7 +11,7 @@ A podcast about programming by programmers for programmers. Big ideas, inspirati
 
 **podcast central distribution**: <https://anchor.fm/lgtm-shipit>  
 **Podcast RSS**: <https://anchor.fm/s/523f7c4c/podcast/rss>  
-**youtube playlist**: <https://www.youtube.com/playlist?list=PLOQ-MAplLyJpiWQQehkdTdjESbUKZVk4I>  
+**youtube channel**: <https://www.youtube.com/channel/UC1SKRYr2Emfbas-8ZA9GYng>  
 **twitch (livestreams only)**: <https://www.twitch.tv/alexchesser>  
 
 ## Social / Contact
