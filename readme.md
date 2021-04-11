@@ -51,11 +51,23 @@ Here are the links:
 * [Ky Patterson - Part 1](https://www.youtube.com/watch?v=kxh4l2J_Ons) (warning, abrupt cut at the end this one)
 * [Ky Patterson - Part 2](https://www.youtube.com/watch?v=MiXk79wRKys)
 
-## Upcoming Episodes - things to look forward to
-
 ### Episode 2 - Arthur Lorena - Full Stack Developer @ Klick Health
 
-The interview with Arthur Lorena has been recorded and IMO went really well! We talk about a bunch of really fun and interesting topics. From his early start in technology in Brasil as the son of a COBOL programmer to his thoughts on what it means to be a 10x engineer. I really enjoyed this chat and can't wait to share it.
+The interview with Arthur Lorena has been recorded and IMO went really well! We talk about a bunch of really fun and interesting topics. From his early start in technology in Brasil as the son of a COBOL programmer to his thoughts on what it means to be a 10x engineer. I really enjoyed this chat and can't wait to share it. You can get in touch with Arthur on linkedin  <https://www.linkedin.com/in/arthur-mendes-lorena/>
+
+## Upcoming Episodes - things to look forward to
+
+### Episode 3 - Jeffery Wong - Backend Engineering at Chorus.ai
+
+Get in touch with Jeff on linkedin <https://www.linkedin.com/in/jeffrey-hm-wong/>. Easily, one of my all time favorite people to work with, Jeff and I discuss the course of his career, including his first role at a digital agency, his time in consulting, the physical analytics startup he joined through to his current placement as a backend engineer at a conversation intelligence AI startup.
+
+We talk about when you should worry about the "Big O" and the intricacies of using search engine technologies. I think we can all learn a lot from Jeff and I hope you enjoy the chat we have.
+
+### Episode 4 - Daniil Molodkov - Lead Educator & Team Lead, Web Development Diploma Program at BrainStation
+
+<https://www.linkedin.com/in/daniilmolodkov/> As an educator and team lead of a web development diploma program at the coding bootcamp Brainstation. He has the opportunity to see dozens, if not hundreds of different learners go from being completely lost to competent and employable players in tech. I can't wait to learn what sorts of insights we can glean from the things he has learned from watching other people become coders. What are the most effective strategies he's seen from his students? What works best? What should learners avoid?
+
+We'll be recording on Sunday night (2021-04-11) and I think it'll be fantastic!
 
 ## Interview Nominations
 
