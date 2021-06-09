@@ -49,6 +49,16 @@ If you are willing to "trust the process" as recommended by experts, we'll go wi
 
 > **In all cases, this interview is about you**
 
-The nice part about whichever way you decide to go, will be that we will be able to get a more robust idea of whether knowing the questions that will be on the test produces better results.
+As the interviews have progressed I've found that knowing the way things are going to go can make for more interesting content.
 
-Of course, there is always the chance of spontaneous questions based on what you say. This isn't about reading through a script, it is about having a conversation and hearing your story.
+As an overview of what you can expect.
+
+I like to start with asking what your first memory of technology is.  Then we talk about how you moved from early interest to basic education (school, university) and what you learned along the way.
+
+From there I like to ask about how you made the transition from school to your first professional gig... discuss the major things that you learned at the stage,  Then we rinse and repeat for your story in terms of getting through to where you are now. 
+
+At any point if there is anything that you feel is particularly interesting or worth bringing up, let me know and we'll follow all your interesting tangents and story lines. 
+
+Finally "is there anything I've missed?" where you can tell me anything about what you're really passionate about.
+
+You shouldn't have to prepare too much, because it really is just about your story, but if that helps you prepare and come to the table with some of your better stories then that's great!
