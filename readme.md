@@ -51,9 +51,7 @@ Here are the links:
 * [Ky Patterson - Part 1](https://www.youtube.com/watch?v=kxh4l2J_Ons) (warning, abrupt cut at the end this one)
 * [Ky Patterson - Part 2](https://www.youtube.com/watch?v=MiXk79wRKys)
 
-### Episode 2 - Arthur Lorena - Full Stack Developer @ Klick Health
-
-The interview with Arthur Lorena has been recorded and IMO went really well! We talk about a bunch of really fun and interesting topics. From his early start in technology in Brasil as the son of a COBOL programmer to his thoughts on what it means to be a 10x engineer. I really enjoyed this chat and can't wait to share it. You can get in touch with Arthur on linkedin  <https://www.linkedin.com/in/arthur-mendes-lorena/>
+### Episode 2 - Archived by request of interviewee
 
 ## Upcoming Episodes - things to look forward to
 
